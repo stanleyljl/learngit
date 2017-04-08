@@ -1,4 +1,4 @@
 my license.
 test
 add in git1
-mod in git1
+mod in git1&git2
